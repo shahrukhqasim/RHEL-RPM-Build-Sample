@@ -87,4 +87,4 @@ rpmbuild -ba spec-1.spec
 ```
 
 ### Achivement
-RPM should be present in ~/rpmbuild/RPMS/<architecture>/
+RPM should be present in ~/rpmbuild/RPMS/\<architecture\>/
