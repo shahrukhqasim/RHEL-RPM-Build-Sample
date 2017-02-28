@@ -27,7 +27,7 @@ cp * -r %{buildroot}
 
 
 %files
-/*
+/usr/local/*
 
 %doc
 
