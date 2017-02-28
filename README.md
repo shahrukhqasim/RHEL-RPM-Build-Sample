@@ -60,8 +60,8 @@ Now finally, we get on to building the RPM ourselves. First we have to create a 
 cd ~ && \
 mkdir -p libs_combined-1 && \
 cd libs_combined-1 && \
-mkdir -p usr/local/libs/ && \
-cd usr/local/libs/ && \
+mkdir -p usr/local/lib/ && \
+cd usr/local/lib/ && \
 cp /usr/local/lib/libopencv* . && \
 cp /usr/local/lib/libtess* . && \
 cp /usr/local/lib/liblept* . && \
